@@ -9,5 +9,5 @@ iMPS.m defines a cell array in the form of:
 Read the driver file " driver_T_AnyUnitcell_ti.m " for more details.
 
 ### References
-[1] Zhao-Yu Sun; Hui-Xin Wen; Meng Li; Bin Guo, Multipartite nonlocality in one-dimensional quantum chains: A transfer-matrix theory, Phys. Rev. A 105, 012213 (2022).
-[2] Fan-Qin Xu, Hui-Xin Wen, and Zhao-Yu Sun, Multipartite nonlocality spectrum and quantum criticality in one-dimensional quantum chains, Phys. Rev. A, 110, 042217 (2024).
+- [1] Zhao-Yu Sun; Hui-Xin Wen; Meng Li; Bin Guo, Multipartite nonlocality in one-dimensional quantum chains: A transfer-matrix theory, Phys. Rev. A 105, 012213 (2022).
+- [2] Fan-Qin Xu, Hui-Xin Wen, and Zhao-Yu Sun, Multipartite nonlocality spectrum and quantum criticality in one-dimensional quantum chains, Phys. Rev. A, 110, 042217 (2024).
